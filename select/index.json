@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ミ・エ・ナ・イ・チ・カ・ラ",
+  "base_artist": "Home Made Kazoku",
+  "createdAt": "2026-02-18T03:40:43.552525Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミ・エ・ナ・イ・チ・カ・ラ",
+      "artist": "Home Made Kazoku",
+      "has_synced": true,
+      "path": "select/01_ミ・エ・ナ・イ・チ・カ・ラ_Home_Made_Kazoku.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミ･エ･ナ･イ･チ･カ･ラ",
+      "artist": "HOME MADE 家族",
+      "has_synced": false,
+      "path": "select/02_ミ・エ・ナ・イ・チ・カ・ラ_HOME_MADE_家族.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミ・エ・ナ・イ・チ・カ・ラ",
+      "artist": "HOME MADE 家族",
+      "has_synced": false,
+      "path": "select/pl_01_ミ・エ・ナ・イ・チ・カ・ラ_HOME_MADE_家族.txt"
+    }
+  ]
+}
